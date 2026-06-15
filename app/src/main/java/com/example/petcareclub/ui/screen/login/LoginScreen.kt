@@ -97,7 +97,7 @@ fun LoginScreen(
                     color = Color.White.copy(alpha = 0.9f)
                 )
                 Text(
-                    text = "PetCare",
+                    text = "VetCare",
                     fontSize = 42.sp,
                     fontWeight = FontWeight.ExtraBold,
                     color = Color.White
@@ -136,7 +136,7 @@ fun LoginScreen(
                     if (!isRegisterMode) {
                         // LOGIN MODE
                         Text(
-                            text = "Masuk Klinik PetCare",
+                            text = "Masuk Klinik VetCare",
                             fontSize = 20.sp,
                             fontWeight = FontWeight.ExtraBold,
                             color = Color.White,
